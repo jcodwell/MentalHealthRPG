@@ -36,3 +36,5 @@ public class MainMenuScript : MonoBehaviour
         Application.Quit();
     }
 }
+
+//Examplle change
