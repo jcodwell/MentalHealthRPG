@@ -14,7 +14,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_Cells:
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   - m_Tile: {fileID: 0}
+=======
+  - m_Tile: {fileID: 11400000, guid: 17fb277f026c14ded8095283895f0c84, type: 2}
+>>>>>>> Stashed changes
 =======
   - m_Tile: {fileID: 11400000, guid: 17fb277f026c14ded8095283895f0c84, type: 2}
 >>>>>>> Stashed changes
