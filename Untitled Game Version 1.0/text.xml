@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<DialougeDetails xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name>Test</Name>
+  <Dialouge>Test</Dialouge>
+  <DialougeDestination>1</DialougeDestination>
+</DialougeDetails>
