@@ -1,0 +1,52 @@
+{
+    "Items": [
+        {
+            "node": "1",
+            "dialogue": [
+                {
+                    "fullName": "Lia Reed",
+                    "line": "Do you want to play this game",
+                    "choices": [
+                        {
+                            "choice": "I would love too!",
+                            "ExtNode": "2"
+                        },
+                        {
+                            "choice": "Video Games are lame",
+                            "ExtNode": "3"
+                        }
+                    ]
+                }
+                ] 
+            },
+            {
+                "node": "2",
+                "dialogue": [
+                    {
+                        "fullName": "Lia Reed",
+                        "line": "Yay !",
+                        "choices": [
+                            {
+                                "choice": " ",
+                                "ExtNode": "1"
+                            }
+                        ]
+                    }]
+                },
+                {
+                    "node": "3",
+                    "dialogue": [
+                        {
+                            "fullName": "Lia Reed",
+                            "line": "That a shame",
+                            "choices": [
+                                {
+                                    "choice": " ",
+                                    "ExtNode": "1"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
